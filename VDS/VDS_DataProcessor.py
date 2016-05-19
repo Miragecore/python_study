@@ -7,6 +7,7 @@ class MainWindow(wx.Frame):
     def __init__(self, parent, title):
         self.dirname=''
         self.dObjList = []
+        self.TrackingList = dict()
         
         # A "-1" in the size parameter instructs wxWidgets to use the default size.
         # In this case, we select 200px width and the default height.
@@ -51,8 +52,8 @@ class MainWindow(wx.Frame):
             self.dirname = dlg.GetDirectory()
             fname = os.path.join(self.dirname, self.filename)
             self.dObjList = VDS_Utils.ReadLog(fname);
-            print len(self.dObjList)
-            print self.dObjList[len(self.dObjList)-1].seqNo
+            #print len(self.dObjList)
+            #print self.dObjList[len(self.dObjList)-1].seqNo
             #f = open(, 'r')
             #self.control.SetValue(f.read())
             #f.close()
