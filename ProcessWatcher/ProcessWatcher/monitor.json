@@ -1,0 +1,26 @@
+{
+      "opCode": "strt",
+      "processes":{
+          "AutoPwrCtrl.exe": {
+              "name": "AutoPwrCtrl.exe",
+              "startCmd": "C:\\MetaBuild\\AutoPwrCtrl\\AutoPwrCtrl.exe",
+              "path": "C:\\MetaBuild\\AutoPwrCtrl",
+              "response": "NotRun",
+              "pid": "123"
+          },
+          "TCRecoder.exe": {
+              "name": "TCRecoder.exe",
+              "startCmd": "C:\\MetaBuild\\TCRecoder\\TCRecoder.exe",
+              "path": "C:\\MetaBuild\\TCRecoder",
+              "response": "NotRun",
+              "pid": "123"
+          },
+          "LocalServer.exe": {
+              "name": "LocalServer.exe",
+              "startCmd": "d:\\MetaBuild\\LocalServer\\LocalServer.exe",
+              "path": "d:\\MetaBuild\\LocalServer",
+              "response": "NotRun",
+              "pid": "123"
+          }
+      }
+}

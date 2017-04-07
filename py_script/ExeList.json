@@ -1,0 +1,8 @@
+{
+	"delay" : "3",
+	"list":[
+		{"path":"Notepad.exe","param":""},
+		{"path":"python.exe","param":""},
+		{"path":"Notepad.exe","param":""},
+		{"path":"Notepad.exe","param":""}]
+}

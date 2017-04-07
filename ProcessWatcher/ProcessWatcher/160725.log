@@ -1,0 +1,1 @@
+[12:31:41] : ProcessName : TCRecoder.exe, PID: -, Status : NotRun[12:31:41] : ProcessName : LocalServer.exe, PID: -, Status : NotRun[12:31:41] : ProcessName : AutoPwrCtrl.exe, PID: -, Status : NotRun[12:31:41] : Can not Excute start_Command : 'C:\MetaBuild\TCRecoder\TCRecoder.exe'[12:31:41] : Can not Excute start_Command : 'C:\MetaBuild\AutoPwrCtrl\AutoPwrCtrl.exe'

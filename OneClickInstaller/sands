@@ -1,0 +1,8 @@
+#app.start(r'notepad.exe')
+#app.NotePad.MenuSelect (u'도움말(H)->메모장 정보(A)')
+#print app.windows_()
+#print app.Aboutnotepad.PrintControlIdentifiers()
+#app.Aboutnotepad.OK.Click()
+#print app.windows_()
+#print app.Notepad.PrintControlIdentifiers()
+#app.notepad.edit.TypeKeys('Hello')

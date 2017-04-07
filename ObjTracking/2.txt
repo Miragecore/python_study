@@ -1,0 +1,34 @@
+﻿[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> System: '수서2' DETECTION - 2017-03-13 09:36:00
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 0, Size: 2, Distance: 46, Angle: 5020, SNR: 0, Speed: 14
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 1, Size: 3, Distance: 58, Angle: -1820, SNR: 0, Speed: 13
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 2, Size: 3, Distance: 60, Angle: -9060, SNR: 0, Speed: 32
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 3, Size: 3, Distance: 81, Angle: -586, SNR: 0, Speed: 20
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 4, Size: 2, Distance: 99, Angle: -286, SNR: 0, Speed: 12
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 5, Size: 3, Distance: 107, Angle: 2940, SNR: 0, Speed: 62
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 6, Size: 2, Distance: 127, Angle: 2565, SNR: 0, Speed: 44
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 7, Size: 2, Distance: 172, Angle: 2282, SNR: 0, Speed: 79
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 8, Size: 2, Distance: 190, Angle: 1718, SNR: 0, Speed: 48
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 9, Size: 2, Distance: 206, Angle: 5185, SNR: 0, Speed: 72
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 10, Size: 4, Distance: 235, Angle: 3575, SNR: 0, Speed: 70
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 11, Size: 3, Distance: 251, Angle: 180, SNR: 0, Speed: 75
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 12, Size: 3, Distance: 257, Angle: 2319, SNR: 0, Speed: 78
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 13, Size: 1, Distance: 263, Angle: 1791, SNR: 0, Speed: 13
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 14, Size: 4, Distance: 332, Angle: 3198, SNR: 0, Speed: 69
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 15, Size: 2, Distance: 524, Angle: -2865, SNR: 0, Speed: 95
+[2017-03-13 09:36:00.034] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 16, Size: 2, Distance: 679, Angle: 2513, SNR: 0, Speed: 99
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> System: '수서2' DETECTION - 2017-03-13 09:36:00
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 0, Size: 3, Distance: 58, Angle: -1389, SNR: 0, Speed: 13
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 1, Size: 3, Distance: 60, Angle: -3901, SNR: 0, Speed: 33
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 2, Size: 4, Distance: 81, Angle: -1103, SNR: 0, Speed: 20
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 3, Size: 3, Distance: 99, Angle: 829, SNR: 0, Speed: 12
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 4, Size: 3, Distance: 105, Angle: 4275, SNR: 0, Speed: 62
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 5, Size: 2, Distance: 127, Angle: -163, SNR: 0, Speed: 45
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 6, Size: 2, Distance: 170, Angle: 1605, SNR: 0, Speed: 79
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 7, Size: 3, Distance: 204, Angle: 3427, SNR: 0, Speed: 71
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 8, Size: 4, Distance: 233, Angle: 4018, SNR: 0, Speed: 70
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 9, Size: 4, Distance: 249, Angle: 1595, SNR: 0, Speed: 74
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 10, Size: 3, Distance: 255, Angle: 4576, SNR: 0, Speed: 79
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 11, Size: 1, Distance: 261, Angle: 1136, SNR: 0, Speed: 2
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 12, Size: 3, Distance: 330, Angle: 1059, SNR: 0, Speed: 69
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 13, Size: 3, Distance: 522, Angle: 430, SNR: 0, Speed: 95
+[2017-03-13 09:36:00.128] meta.Radar2.Clients.Radar2Dispatcher - DEBUG> Move ID: 14, Size: 2, Distance: 677, Angle: -648, SNR: 0, Speed: 98
